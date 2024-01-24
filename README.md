@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Anthany Han and I am learning Unity 😄. I am a student at Southwest tech and I am a sophomore. I like soccer and video games.
 <!--
 **AntHan123/AntHan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
